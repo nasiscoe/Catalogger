@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\nicks\.android\build-cache\5604290aa8b317e97b4c3818a857a9bcd4a03996\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\nicks\OneDrive\Documents\GitHub Repository\AndroidStudioProjects\Catalogger\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_61751bfe1bcc1ffcf57a550c1b4d28a4b89bfd0d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nicks\.android\build-cache\8d598dad74845b241f1b97addf995073faa2370d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\nicks\OneDrive\Documents\GitHub Repository\AndroidStudioProjects\Catalogger\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8ddce7ae62793f8451c5bbf07475d75245d8a820\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nicks\.android\build-cache\34375eebed6278c9fa3dac01be09d43a95f0947a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\nicks\OneDrive\Documents\GitHub Repository\AndroidStudioProjects\Catalogger\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3a48de1dc7a339380b96feb358d861a6af60bf12\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nicks\.android\build-cache\bb88c612580680a59cba243280bb53ada7d2ae32\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\nicks\OneDrive\Documents\GitHub Repository\AndroidStudioProjects\Catalogger\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_be1a5a347b550dae4a65c6355449fc089834e22a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nicks\OneDrive\Documents\GitHub Repository\AndroidStudioProjects\Catalogger\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2e75b2ef47798efea5ccc1fcf80bd910fd0839f8">
+        <dex dex="C:\Users\nicks\OneDrive\Documents\GitHub Repository\AndroidStudioProjects\Catalogger\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_8bcbae9d2d6acf8d44e61d17d249642ab54f8abb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nicks\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\nicks\OneDrive\Documents\GitHub Repository\AndroidStudioProjects\Catalogger\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.0_b4bfac8fc930ce399d7a8c03e1f22e77160128a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nicks\.android\build-cache\9020cdb40f7e3e3b01b4d3645f0a245a4ce189c3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="C:\Users\nicks\OneDrive\Documents\GitHub Repository\AndroidStudioProjects\Catalogger\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_650b50dc375818d4cec5eb2bb42bc959e0fd1b8d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nicks\.android\build-cache\d497200312612b61d5b9a5376d432ba165725dea\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\nicks\OneDrive\Documents\GitHub Repository\AndroidStudioProjects\Catalogger\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5d80897d11ae8630c9ad45dcb2333e9823fddfdf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nicks\.android\build-cache\217dbddd0b72a38c291eb370293d4dce4a2983e4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\nicks\OneDrive\Documents\GitHub Repository\AndroidStudioProjects\Catalogger\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6c2c43e0a41af53c200f9983f4f4597bd615f4b6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nicks\.android\build-cache\d021035bd2a6d8cee47ea968bd6eb36835306ba6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\nicks\OneDrive\Documents\GitHub Repository\AndroidStudioProjects\Catalogger\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2a9bb0014cb76ce4b08d21cb77547658ed394c30\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nicks\.android\build-cache\db80ba42bde8b00faa73fb9fb1f062a65a599fab\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\nicks\OneDrive\Documents\GitHub Repository\AndroidStudioProjects\Catalogger\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d73150df626f3b60ecb85aaa0bb0ef6fa928d4ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nicks\.android\build-cache\5ba2c9f682024b6e184e1cffb7243958a1d6e6ec\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\nicks\OneDrive\Documents\GitHub Repository\AndroidStudioProjects\Catalogger\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b6bfecf44e89aede1868bb5f51204f4c28c084ac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nicks\.android\build-cache\8341bf204fdbfa1c966b4a92e91fb841b0f68fe8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="C:\Users\nicks\OneDrive\Documents\GitHub Repository\AndroidStudioProjects\Catalogger\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_95d59f8b236aaa0c076a2813077d2aa65bb45130\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nicks\.android\build-cache\9c9d5f866b11a3007431ed5e0792241b09c44e9a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="C:\Users\nicks\OneDrive\Documents\GitHub Repository\AndroidStudioProjects\Catalogger\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6188506e405b7603f7378a308ecec6afc0420000\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nicks\OneDrive\Documents\GitHub Repository\AndroidStudioProjects\Catalogger\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\nicks\OneDrive\Documents\GitHub Repository\AndroidStudioProjects\Catalogger\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_673d9eb4dc505ff84ffe736ba4eb6d4d10aeb1b5\classes.dex" />
+    </item>
+
+</items>

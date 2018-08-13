@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_add_items"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@color/colorPrimaryDark"
+    tools:context="com.wongis.catalogger.AddItems">
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:hint=" ITEM NAME"
+        android:ems="17"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="25dp"
+        android:id="@+id/itemName"
+        android:background="@android:color/background_light" />
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_toLeftOf="@+id/itemInfo"
+        android:layout_alignBottom="@+id/itemInfo"
+        android:id="@+id/linearLayout"
+        android:layout_below="@+id/itemName">
+
+        <Spinner
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:layout_marginTop="19dp"
+            android:id="@+id/categoryOne"
+            android:spinnerMode="dropdown"
+            android:backgroundTint="@android:color/background_light"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:background="@android:drawable/spinner_background" />
+
+        <Spinner
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:layout_marginTop="19dp"
+            android:id="@+id/categoryTwo"
+            android:spinnerMode="dropdown"
+            android:backgroundTint="@android:color/background_light"
+            android:layout_below="@+id/categoryOne"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:background="@android:drawable/spinner_background" />
+
+        <Spinner
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:layout_marginTop="19dp"
+            android:id="@+id/categoryThree"
+            android:spinnerMode="dropdown"
+            android:backgroundTint="@android:color/background_light"
+            android:layout_below="@+id/categoryTwo"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:background="@android:drawable/spinner_background" />
+
+        <Spinner
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:layout_marginTop="18dp"
+            android:id="@+id/categoryFour"
+            android:spinnerMode="dropdown"
+            android:backgroundTint="@android:color/background_light"
+            android:layout_below="@+id/categoryThree"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:background="@android:drawable/spinner_background" />
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:inputType="textPersonName"
+            android:hint="ATTRIBUTE1 VALUE"
+            android:ems="9"
+            android:layout_below="@+id/categoryFour"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="18dp"
+            android:id="@+id/attributeOne"
+            android:background="@android:color/background_light" />
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:inputType="textPersonName"
+            android:hint="ATTRIBUTE2 VALUE"
+            android:ems="9"
+            android:layout_marginTop="16dp"
+            android:id="@+id/attributeTwo"
+            android:background="@android:color/background_light"
+            android:layout_below="@+id/attributeOne"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:inputType="textPersonName"
+            android:hint="ATTRIBUTE3 VALUE"
+            android:ems="9"
+            android:layout_marginTop="13dp"
+            android:id="@+id/attributeThree"
+            android:background="@android:color/background_light"
+            android:layout_below="@+id/attributeThree"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:inputType="textPersonName"
+            android:hint="ATTRIBUTE4 VALUE"
+            android:ems="9"
+            android:layout_marginTop="13dp"
+            android:id="@+id/attributeFour"
+            android:background="@android:color/background_light"
+            android:layout_below="@+id/attributeTwo"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+    </LinearLayout>
+
+    <TextView
+        android:text="ITEM NAME"
+        android:layout_width="153dp"
+        android:layout_height="1dp"
+        android:layout_marginTop="19dp"
+        android:id="@+id/itemInfo"
+        android:layout_below="@+id/itemName"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:textAlignment="center"
+        android:textColor="@android:color/background_light" />
+
+    <Button
+        android:text="Complete"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/completeButton"
+        android:background="@android:color/background_light"
+        android:layout_alignParentBottom="true"
+        android:layout_toRightOf="@+id/linearLayout"
+        android:layout_toEndOf="@+id/linearLayout" />
+
+    <Button
+        android:text="Save and Add Another Item"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/addAnotherButton"
+        android:background="@android:color/background_light"
+        android:layout_alignParentBottom="true"
+        android:layout_toLeftOf="@+id/itemInfo"
+        android:layout_toStartOf="@+id/itemInfo"
+        android:layout_marginRight="47dp"
+        android:layout_marginEnd="47dp" />
+
+
+</RelativeLayout>

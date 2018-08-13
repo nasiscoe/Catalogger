@@ -1,0 +1,23 @@
+#Internal package file, do not edit.
+#Tue Dec 05 18:52:55 CST 2017
+2.base=C\:\\Users\\Nick\\OneDrive\\Documents\\GitHub Repository\\AndroidStudioProjects\\Catalogger\\app\\build\\intermediates\\assets\\debug
+0.path=fonts/Tofino-LightItalic.otf
+2.baseType=DIRECTORY
+3.base=C\:\\Users\\Nick\\OneDrive\\Documents\\GitHub Repository\\AndroidStudioProjects\\Catalogger\\app\\build\\intermediates\\assets\\debug
+2.set=ASSET
+1.path=fonts/Tofino-Black.otf
+4.base=C\:\\Users\\Nick\\OneDrive\\Documents\\GitHub Repository\\AndroidStudioProjects\\Catalogger\\app\\build\\intermediates\\assets\\debug
+count=5
+2.path=fonts/Tofino-Light.otf
+4.set=ASSET
+3.path=fonts/Tofino-RegularItalic.otf
+3.baseType=DIRECTORY
+1.set=ASSET
+4.path=fonts/Tofino-Regular.otf
+1.baseType=DIRECTORY
+0.base=C\:\\Users\\Nick\\OneDrive\\Documents\\GitHub Repository\\AndroidStudioProjects\\Catalogger\\app\\build\\intermediates\\assets\\debug
+0.baseType=DIRECTORY
+3.set=ASSET
+1.base=C\:\\Users\\Nick\\OneDrive\\Documents\\GitHub Repository\\AndroidStudioProjects\\Catalogger\\app\\build\\intermediates\\assets\\debug
+4.baseType=DIRECTORY
+0.set=ASSET

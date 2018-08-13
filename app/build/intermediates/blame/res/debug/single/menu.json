@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\nicks\\OneDrive\\Documents\\GitHub Repository\\AndroidStudioProjects\\Catalogger\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_inventory_viewer.xml",
+        "source": "C:\\Users\\nicks\\OneDrive\\Documents\\GitHub Repository\\AndroidStudioProjects\\Catalogger\\app\\src\\main\\res\\menu\\menu_inventory_viewer.xml"
+    },
+    {
+        "merged": "C:\\Users\\nicks\\OneDrive\\Documents\\GitHub Repository\\AndroidStudioProjects\\Catalogger\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_inventory_list.xml",
+        "source": "C:\\Users\\nicks\\OneDrive\\Documents\\GitHub Repository\\AndroidStudioProjects\\Catalogger\\app\\src\\main\\res\\menu\\menu_inventory_list.xml"
+    }
+]

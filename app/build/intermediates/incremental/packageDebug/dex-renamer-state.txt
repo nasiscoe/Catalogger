@@ -1,0 +1,7 @@
+#Fri Sep 08 14:11:00 CDT 2017
+base.0=C\:\\Users\\nicks\\OneDrive\\Documents\\GitHub Repository\\AndroidStudioProjects\\Catalogger\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_8bcbae9d2d6acf8d44e61d17d249642ab54f8abb
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\nicks\\OneDrive\\Documents\\GitHub Repository\\AndroidStudioProjects\\Catalogger\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_673d9eb4dc505ff84ffe736ba4eb6d4d10aeb1b5\\classes.dex
+base.1=C\:\\Users\\nicks\\OneDrive\\Documents\\GitHub Repository\\AndroidStudioProjects\\Catalogger\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_673d9eb4dc505ff84ffe736ba4eb6d4d10aeb1b5
+file.0=C\:\\Users\\nicks\\OneDrive\\Documents\\GitHub Repository\\AndroidStudioProjects\\Catalogger\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_8bcbae9d2d6acf8d44e61d17d249642ab54f8abb\\classes.dex

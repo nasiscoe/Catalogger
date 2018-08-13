@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_create_inventory"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@color/colorPrimaryDark"
+    tools:context="com.wongis.catalogger.CreateInventory">
+
+    <Button
+        android:text="Continue"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="39dp"
+        android:id="@+id/continueButton"
+        android:background="@android:color/background_light" />
+
+    <EditText
+        android:layout_width="1000dp"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:hint=" INVENTORY NAME"
+        android:ems="17"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="31dp"
+        android:id="@+id/inventoryName"
+        android:background="@android:color/background_light" />
+
+    <EditText
+        android:layout_width="1000dp"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:hint=" CATEGORIES (Ex: Genre, Food Type)"
+        android:ems="17"
+        android:id="@+id/categories"
+        android:background="@android:color/background_light"
+        android:layout_below="@+id/inventoryName"
+        android:layout_marginTop="13dp"
+        android:layout_alignLeft="@+id/inventoryName"
+        android:layout_alignStart="@+id/inventoryName" />
+
+    <EditText
+        android:layout_width="1000dp"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:hint="CATEGORY NAMES (Ex: Classical, Fruit)"
+        android:ems="17"
+        android:id="@+id/categoryNames1"
+        android:background="@android:color/background_light"
+        android:layout_marginTop="13dp"
+        android:layout_below="@+id/categories"
+        android:layout_marginLeft="20dp"
+
+        />
+
+    <EditText
+        android:layout_width="1000dp"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:hint="CATEGORY NAMES (Ex: Classical, Fruit)"
+        android:ems="17"
+        android:id="@+id/categoryNames2"
+        android:background="@android:color/background_light"
+        android:layout_marginTop="13dp"
+        android:layout_below="@+id/categoryNames1"
+
+        android:layout_alignLeft="@+id/categories"
+        android:layout_alignStart="@+id/categoryNames1" />
+
+    <EditText
+        android:layout_width="1000dp"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:hint="CATEGORY NAMES (Ex: Classical, Fruit)"
+        android:ems="17"
+        android:id="@+id/categoryNames3"
+        android:background="@android:color/background_light"
+        android:layout_marginTop="13dp"
+        android:layout_below="@+id/categoryNames2"
+
+        android:layout_alignLeft="@+id/categoryNames1"
+        android:layout_alignStart="@+id/categoryNames1" />
+
+    <EditText
+        android:layout_width="1000dp"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:hint="CATEGORY NAMES (Ex: Classical, Fruit)"
+        android:ems="17"
+        android:id="@+id/categoryNames4"
+        android:background="@android:color/background_light"
+
+        android:layout_marginTop="13dp"
+        android:layout_below="@+id/categoryNames3"
+        android:layout_alignLeft="@+id/categoryNames1"
+        android:layout_alignStart="@+id/categoryNames1" />
+
+    <EditText
+        android:layout_width="1000dp"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:hint=" ATTRIBUTES (Ex: Price, Model No.)"
+        android:ems="17"
+        android:id="@+id/attributes"
+        android:layout_marginTop="13dp"
+        android:background="@android:color/background_light"
+        android:layout_below="@+id/categoryNames4"
+        android:layout_alignLeft="@+id/categories"
+        android:layout_alignStart="@+id/categories" />
+
+    <TextView
+        android:text="* Separate categories/category names/attributes by comma"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/attributes"
+        android:layout_alignLeft="@+id/attributes"
+        android:layout_alignStart="@+id/attributes"
+        android:layout_marginTop="15dp"
+        android:id="@+id/textView"
+        android:textColor="@android:color/background_light"
+        android:layout_alignRight="@+id/attributes"
+        android:layout_alignEnd="@+id/attributes" />
+
+    <TextView
+        android:text="* Leave blank if n/a"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView"
+        android:layout_alignLeft="@+id/textView"
+        android:layout_alignStart="@+id/textView"
+        android:id="@+id/textView2"
+        android:textColor="@android:color/background_light" />
+
+    <TextView
+        android:text="* Maximum 4 categories and 4 attributes"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/itemInfo"
+        android:textColor="@android:color/background_light"
+        android:layout_below="@+id/textView2"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+
+</RelativeLayout>
